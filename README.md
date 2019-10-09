@@ -20,7 +20,7 @@ Your app will take in a string from a user through a form, convert it to pig lat
 
 4. In your application controller, create an instance of the `PigLatinizer` class to convert your user input to Pig Latin.
 
-5. Use ERB within a new view to display the final pig latin string to the user.
+5. Use ERB within a new view to display the final pig latin string to the user. 
 
 
 
